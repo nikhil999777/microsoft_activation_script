@@ -1,0 +1,1 @@
+# microsoft_activation_script
